@@ -93,6 +93,6 @@ The original notebook was retained as uploaded; paths and notebook logic have no
 
 ## Acknowledgements
 
-Dataset/competition: **Add the exact Kaggle URL here**.
+Dataset/competition: **https://www.kaggle.com/competitions/playground-series-s6e9**.
 
 This is an educational portfolio project. It does not establish that the model is suitable for real-world customer targeting or purchasing decisions.
